@@ -67,7 +67,7 @@ function App() {
         </div>
 
         <div className="footer">
-          <p className="date">Father's Day 2024</p>
+          <p className="date">Father's Day 2025</p>
           <p className="disclaimer">*No mirrors were harmed in the making of this website</p>
         </div>
       </div>
