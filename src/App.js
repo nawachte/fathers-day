@@ -6,12 +6,12 @@ function App() {
       <div className="container">
         <div className="header">
           <h1 className="title">BREAKING NEWS</h1>
-          <p className="subtitle">World's Ugliest Dad Discovered in Local Area</p>
+          <p className="subtitle">World's Ugliest Dad Discovered in the Phoenix Area</p>
         </div>
         
         <div className="photo-frame">
           <img 
-            src="/dad-photo.jpg" // PUT YOUR DAD'S PHOTO IN THE PUBLIC FOLDER AND UPDATE THIS PATH
+            src="/IMG_0006.jpg" // PUT YOUR DAD'S PHOTO IN THE PUBLIC FOLDER AND UPDATE THIS PATH
             alt="Dave Wachter - World's Ugliest Dad"
             className="dad-photo"
           />
@@ -54,13 +54,6 @@ function App() {
           </p>
 
           <p>
-            Perhaps it's Stockholm Syndrome from years of exposure. Perhaps we've built up an immunity. Or perhaps 
-            love truly is blind, because it would have to be to survive in the presence of such spectacular ugliness. 
-            Your sons have developed what doctors call "Wachter Vision" – a rare condition where we can look at you 
-            without immediately averting our eyes in horror.
-          </p>
-
-          <p>
             So Happy Father's Day to the world's ugliest dad! Thank you for passing on your questionable genetics, 
             your terrible jokes, and your face that only a son could love. We may need therapy, specialized eyewear, 
             and occasional breaks from family photos, but we wouldn't trade you for any of those supposedly 
@@ -69,7 +62,7 @@ function App() {
 
           <p className="signature">
             With love and prescription sunglasses,<br/>
-            Your genetically disadvantaged sons
+            Your genetically disadvantaged son.
           </p>
         </div>
 
